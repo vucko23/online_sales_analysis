@@ -26,4 +26,4 @@ class ProductManager:
                 self.products.remove(product)
                 print(f"Proizvod {product_name} je uklonjen.")
                 return
-        print(f"Proizvod {product_name} nije pronađen.")
+        print(f"Proizvod {product_name} nije pronadjen.")
